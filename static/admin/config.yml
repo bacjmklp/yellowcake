@@ -138,7 +138,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/components.md'
-        label: 'Components Page'
+        label: 'Resources & Services'
         name: 'components-page'
         fields:
           - {
