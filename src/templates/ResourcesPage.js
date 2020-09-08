@@ -79,10 +79,10 @@ const ResourcesPage = ({ data: { page } }) => (
   </Layout>
 )
 
-export default ResourcesPagePage
+export default ResourcesPage
 
 export const pageQuery = graphql`
-  query ResourcesPagePage($id: String!) {
+  query ResourcesPage($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...Gallery
