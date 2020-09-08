@@ -72,8 +72,6 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/bacjmklp/yellowcake" />
-
             <Nav subNav={subNav} />
 
             <Fragment>{children}</Fragment>
