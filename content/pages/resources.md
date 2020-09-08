@@ -1,10 +1,10 @@
 ---
 template: ResourcesPage
-slug: contact
+slug: resources
 title: Resources
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
+subtitle: This is the Resources page subtitle.
+address: 'Sample'
 phone: 0987 123 456
 email: example@example.com
 locations:
@@ -20,8 +20,8 @@ meta:
 
 This form is setup to use Netlify's form handling:
 
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
+- the form action is set to the current absolute url: `action: '/resources/'`
+- a name attribute is sent with the form's data `'form-name': 'Resources'`
 - netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
 
 Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
