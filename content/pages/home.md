@@ -1,14 +1,14 @@
 ---
 template: HomePage
 slug: ''
-title: FaithFully Educated
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: Awakening students to Imago Dei
+title: Stephanie Presents
+featuredImage: 'https://ucarecdn.com/598417b6-ef5c-4960-9aa3-6d41b70706ff/'
+subtitle: '# Awakening the Imago Dei'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
-What's your lens? High GPA? Impressive college admissions? [verview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+
 
 # Features
 
