@@ -5,8 +5,8 @@ title: Stephanie Presents
 featuredImage: 'https://ucarecdn.com/ec6e9937-848d-4015-8c12-13ae54dc6584/'
 subtitle: '# Awakening the Imago Dei'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Home page
+  title: Stephanie Presents
 ---
 
 
@@ -56,7 +56,7 @@ Whether your attire is
 
 you're making a mark. Leaving a footprint. Forging a heritage. 
 
-If your desire is to craft a life and legacy of being fully awakened to the character, purpose, and love of God, join me for content to challenge, invigorate, equip, and encourage you this is the only life well lived!
+If your desire is to craft a life and legacy of being fully awakened to the character, purpose, and love of God, join me for created and curated content to challenge, invigorate, equip, and encourage you this is the only life well lived!
 
 
 
