@@ -1,16 +1,13 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
-locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+title: What's That?
+featuredImage: 'https://ucarecdn.com/8e0a6477-34ca-4bf1-872d-de95baf40060/'
+subtitle: Here's how to get in touch
+address: P.O. Box )))
+phone: (573) 800-8000
+email: info@stephaniepresents.com
+locations: []
 meta:
   description: This is a meta description.
   title: Contact Page
