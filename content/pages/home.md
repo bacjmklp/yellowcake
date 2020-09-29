@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Stephanie Presents
-featuredImage: 'https://ucarecdn.com/598417b6-ef5c-4960-9aa3-6d41b70706ff/'
+featuredImage: 'https://ucarecdn.com/ec6e9937-848d-4015-8c12-13ae54dc6584/'
 subtitle: '# Awakening the Imago Dei'
 meta:
   description: This is a meta description.
@@ -10,18 +10,30 @@ meta:
 ---
 
 
-# Features
+# Welcome person of immense impact!
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
+Yes, that's you! 
 
-## Get started
+Legacies aren't written at the end of one's life. They're inked by days. 
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+
+In homes, classrooms, churches. 
+
+On ball fields, sidewalks, mountain trails, and playgrounds. 
+
+In businesses, hospitals, and cafes.
+
+
+
+Your influence has a depth and breadth known only by God. It can't be measured by numbers of dollars, followers, 
+
+
+
+
+
+## Learn Yourself
+
+## Love God
+
+## Live Connected
