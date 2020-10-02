@@ -1,9 +1,9 @@
 ---
 template: ContactPage
 slug: contact
-title: What's That?
-featuredImage: 'https://ucarecdn.com/8e0a6477-34ca-4bf1-872d-de95baf40060/'
-subtitle: Here's how to get in touch
+title: Need more information?
+featuredImage: 'https://ucarecdn.com/ddb5d7bc-ae80-45f6-adf1-5705c3475e02/'
+subtitle: Happy to help!
 address: P.O. Box )))
 phone: (573) 800-8000
 email: info@stephaniepresents.com
