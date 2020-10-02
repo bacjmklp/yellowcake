@@ -1,22 +1,32 @@
 ---
 template: ResourcesPage
 slug: resources
-title: Hello
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
-subtitle: This is the resources page subtitle.
+title: 'Resources '
+featuredImage: 'https://ucarecdn.com/3adb5e34-57d3-4a9c-86a0-d351483d18dc/'
+subtitle: '## Coming Spring 2021!'
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Part 1 of a 2 Year Character Education Curriculum for Christian Schools &
+  Families
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  Based on the Two Great Commandments, this comprehensive, ready-to-use program
+  helps students from middle school through graduation develop:
+
+
+  \* Biblical literacy
+
+
+  \* Relational savvy
+
+
+  \* Emotional intelligence
+
+
+  \* Self awareness
+
+
+  ## Sign up today to be the first to know when this material is ready for
+  release!
 section2: |-
   ## You can use videos, images and text.
 
@@ -48,3 +58,5 @@ gallery:
 meta:
   description: This is a meta description.
   title: Resources Page
+---
+
