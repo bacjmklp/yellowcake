@@ -4,7 +4,7 @@ slug: contact
 title: Need more information?
 featuredImage: 'https://ucarecdn.com/ddb5d7bc-ae80-45f6-adf1-5705c3475e02/'
 subtitle: Happy to help!
-address: P.O. Box )))
+address: P.O. Box 1234
 phone: (573) 800-8000
 email: info@stephaniepresents.com
 locations: []
