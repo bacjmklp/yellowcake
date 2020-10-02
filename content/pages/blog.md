@@ -1,8 +1,8 @@
 ---
 template: BlogIndex
 slug: blog
-title: 'Words for '
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
+title: Waking up to...
+featuredImage: 'https://ucarecdn.com/b09200aa-2cb6-4ba3-aea3-984c4dc41327/'
 subtitle: |-
   Learn You.
 
