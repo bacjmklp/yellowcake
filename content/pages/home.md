@@ -8,25 +8,9 @@ meta:
   description: Home page
   title: Stephanie Presents
 ---
-
-
 # Welcome person of immense impact!
 
 Yes, that's you! 
-
-Legacies aren't written at the end of one's life. They're inked in days. 
-
-
-
-In homes, classrooms, and churches. 
-
-On ball fields, sidewalks, mountain trails, and playgrounds. 
-
-In businesses, hospitals, and cafes.
-
-
-
-Your influence can't be measured in dollars, followers, advertisers, likes, shares, retweets, awards, raises, or promotions. Its breadth and depth is known only by God.
 
 Whether your days orbit around a
 
@@ -54,9 +38,7 @@ Whether your attire is
 
 ## or ballet slippers,
 
-you're making a mark. Leaving a footprint. Forging a heritage. 
-
-If your desire is to craft a life and legacy of being fully awakened to the character, purpose, and love of God, join me for created and curated content to challenge, invigorate, equip, and encourage you this is the only life well lived!
+here you'll find help to become -- and assist others to become -- fully awakened to the character, purposes, and love of God. 
 
 
 
